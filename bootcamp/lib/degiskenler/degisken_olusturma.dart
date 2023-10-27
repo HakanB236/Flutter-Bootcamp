@@ -88,6 +88,18 @@ void main () {
   double sonuc6 = double.parse(yazi2);
   print(sonuc5);
   print(sonuc6);
+  String yazi3 = "4121231";
+  int sonuc7 = int.parse(yazi3);
+  String yazi4 = "21321.3332";
+  double sonuc8 = double.parse(yazi4);
+  String yazi5 = "34123";
+  double sonuc9 = double.parse(yazi5);
+
+
+
+
+
+
 
   // ödev
 
