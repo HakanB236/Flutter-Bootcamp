@@ -1,4 +1,4 @@
-name: tasarim_calismasi
+name: calisma_yapisi
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -30,9 +30,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_localizations:
-    sdk: flutter
-  intl: ^0.18.0
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -55,15 +52,6 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
-  generate: true
-
-  assets:
-    - assets/image/
-
-  fonts:
-    - family: Pacifico
-      fonts:
-        - asset: fonts/Pacifico-Regular.ttf
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
