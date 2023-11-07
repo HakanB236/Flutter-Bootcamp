@@ -1,0 +1,23 @@
+{
+"beveragesTitle":"İçecekler",
+"productCoke":"Diyet Kola",
+"findProduct":"Ürünleri Bulun",
+"productAppleJuice":"Elma Suyu",
+"productOrangeJuice":"Portakal Suyu",
+"productCocaCola":"Coca Cola",
+"productSprite":"Sprite",
+"productPepsi":"Pepsi",
+"appleJuicePrice":"159.99 TL",
+"orangeJuicePrice":"159.99 TL",
+"cocaColaPrice":"49.99 TL",
+"spritePrice":"14.99 TL",
+"pepsiPrice":"49.99 TL",
+"dietCokePrice":"19.99 TL",
+"fruitsAndVegetables":"Taze Meyve & Sebze",
+"cookingOilAndGhee":"Yemeklik Yağlar",
+"meatAndFish":"Et & Balık",
+"bakeryAndSnacks":"Unlu Mamul & Atıştırmalık",
+"dairyAndEggs":"Süt & Yumurta",
+"beverages":"İçecekler"
+
+}

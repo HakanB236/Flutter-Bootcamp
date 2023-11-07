@@ -30,6 +30,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.18.0
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -52,6 +55,24 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
+  generate: true
+  assets:
+    - assets/images/
+  fonts:
+    - family: Unbounded
+      fonts:
+        - asset: fonts/Unbounded-Regular.ttf
+        - asset: fonts/Unbounded-Light.ttf
+        - asset: fonts/Unbounded-Regular.ttf
+    - family: GilroyBold
+      fonts:
+        - asset: fonts/Gilroy-Bold.ttf
+    - family: Gilroy
+      fonts:
+        - asset: fonts/Gilroy-Regular.ttf
+    - family: GilroyMedium
+      fonts:
+        - asset: fonts/Gilroy-Medium.ttf
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in

@@ -1,0 +1,23 @@
+{
+"beveragesTitle":"Beverages",
+"productCoke":"Diet Coke",
+"findProduct":"Find Products",
+"productAppleJuice":"Apple Juice",
+"productOrangeJuice":"Orange Juice",
+"productCocaCola":"Coca Cola",
+"productSprite":"Sprite",
+"productPepsi":"Pepsi",
+"appleJuicePrice":"$ 15.99",
+"orangeJuicePrice":"$ 15.99",
+"cocaColaPrice":"$ 4.99",
+"spritePrice":"$ 1.50",
+"pepsiPrice":"$ 4.99",
+"dietCokePrice":"$ 1.99",
+"fruitsAndVegetables":"Fresh Fruits & Vegetable",
+"cookingOilAndGhee":"Cooking Oil & Ghee",
+"meatAndFish":"Meat & Fish",
+"bakeryAndSnacks":"Bakery & Snacks",
+"dairyAndEggs":"Dairy & Eggs",
+"beverages":"İçecekler"
+
+}
