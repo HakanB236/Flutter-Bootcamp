@@ -20,6 +20,7 @@ class _SonucEkraniState extends State<SonucEkrani> {
               Navigator.pop(context);
             }, child: const Text("Geri dön")),
             ElevatedButton(onPressed: (){
+              Navigator.of(context).popUntil((route) => route.isFirst); // 1. sayfaya kadar geri dön demek
             }, child: const Text("Anasayfaya geri dön")),
           ],
         ),

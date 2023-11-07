@@ -1,4 +1,6 @@
 import 'package:calisma_yapisi/anasayfa.dart';
+import 'package:calisma_yapisi/bottom_navigaton_ornek/bottom_sayfa.dart';
+import 'package:calisma_yapisi/kullanici_etkilesimi/kullanici_etkilesimi_sayfa.dart';
 import 'package:calisma_yapisi/oyun_ekrani.dart';
 import 'package:flutter/material.dart';
 
@@ -19,7 +21,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const OyunEkrani(),
+      home: const KullaniciEtkilesimiSayfa(),
     );
   }
 }
