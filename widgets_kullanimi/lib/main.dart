@@ -1,9 +1,5 @@
-import 'package:calisma_yapisi/anasayfa.dart';
-import 'package:calisma_yapisi/bottom_navigaton_ornek/bottom_sayfa.dart';
-import 'package:calisma_yapisi/homework/home_page.dart';
-import 'package:calisma_yapisi/kullanici_etkilesimi/kullanici_etkilesimi_sayfa.dart';
-import 'package:calisma_yapisi/oyun_ekrani.dart';
 import 'package:flutter/material.dart';
+import 'package:widgets_kullanimi/anasayfa.dart';
 
 void main() {
   runApp(const MyApp());
@@ -16,13 +12,15 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      debugShowCheckedModeBanner: false,
       title: 'Flutter Demo',
+      debugShowCheckedModeBanner: false,
       theme: ThemeData(
+
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const KullaniciEtkilesimiSayfa(),
+      home: const Anasayfa(),
     );
   }
 }
+
